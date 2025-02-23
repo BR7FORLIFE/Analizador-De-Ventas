@@ -1,0 +1,6 @@
+id_venta,fecha,producto,categoria_producto,cantidad,precio_unitario,ingresos,pais,metodo_pago
+1,2023-01-01,Taza,Cerámica,3,10.0,30.0,EE.UU,Tarjeta de crédito
+2,2023-01-02,Plato,Cerámica,2,15.0,30.0,Canadá,Paypal
+3,2023-01-03,Camisa,Ropa,1,20.0,20.0,México,Efectivo
+4,2023-01-04,Taza,Cerámica,4,10.0,40.0,EE.UU,Tarjeta de crédito
+5,2023-01-05,Plato,Cerámica,1,15.0,15.0,Canadá,Paypal
